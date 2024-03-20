@@ -1,6 +1,4 @@
 
-<h1 align="center">Hello World</h1>
-
 ###
 ![banner_tecnologia](https://github.com/Douglas-Souza-Almeida/Douglas-Souza-Almeida/assets/61165006/8f6b6f06-a601-461f-9d87-6bfb5bd09b28)
 
