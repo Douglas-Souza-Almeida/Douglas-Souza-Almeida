@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou um profissional com formação em Engenharia de Software e em Tecnologia em Gestão da Produção Industrial. Possuo certificação em Yellow Belt e atualmente atuo como analista de Sistemas. Além disso, sou um entusiasta da música, toco guitarra e sax 🎸🎷.<br><br>
+<p align="left">Sou um profissional com formação em Engenharia de Software e em Tecnologia em Gestão da Produção Industrial. Possuo certificação em Yellow Belt e atualmente atuo como Analista de Sistemas. Além disso, sou um entusiasta da música, toco guitarra e sax 🎸🎷.<br><br>
 
 ###
 
