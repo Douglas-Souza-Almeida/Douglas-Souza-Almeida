@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou um profissional com formação em Engenharia de Software e em Tecnologia em Gestão da Produção Industrial. Possuo certificação em Yellow Belt e atualmente atuo como analista de PCP Pleno (Planejamento e Controle da Produção). Além disso, sou um entusiasta da música, toco guitarra e sax 🎸🎷.<br><br>Atualmente, estou dedicando meu tempo ao estudo de front e back end para expandir meus conhecimentos e habilidades. Acredito que essa jornada de aprendizado irá enriquecer minha atuação profissional e abrir novas oportunidades de crescimento.<br><br>Amo profundamente minha família, que é minha fonte de apoio e inspiração ❤️.</p>
+<p align="left">Sou um profissional com formação em Engenharia de Software e em Tecnologia em Gestão da Produção Industrial. Possuo certificação em Yellow Belt e atualmente atuo como analista de Sistemas. Além disso, sou um entusiasta da música, toco guitarra e sax 🎸🎷.<br><br>
 
 ###
 
